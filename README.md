@@ -1,1 +1,1 @@
-# docusaurus-mui-inter-doc-back-py
+# InterDoc Template w/ Python Backend
